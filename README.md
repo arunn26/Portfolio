@@ -11,4 +11,4 @@ This is a simple portfolio project created using basic HTML and CSS. It consists
 - CSS3
   
 ## How to view
-To view the portfolio, simply open the `index.html` file in your web browser. You can navigate between the home and contact pages using the links provided. You can also access my portfolio website by visiting "link".
+To view the portfolio, simply open the `index.html` file in your web browser. You can navigate between the home and contact pages using the links provided. You can also access my portfolio website by visiting [link](https://arunn26.github.io/Portfolio/).
